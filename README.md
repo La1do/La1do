@@ -2,8 +2,6 @@
 <h3 align="center">🎓 I'm a third-year Information Technology student 💻 Passionate about full-stack web development 🚀 Enthusiastic about exploring new technologies and applying them through real-world projects</h3>
 
 - 🔭 I’m currently working on [cv web](https://github.com/HauiZ/Cv-Website.git)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
