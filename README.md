@@ -9,7 +9,9 @@
 
 ## 🚀 Featured Project
 
-### [📄 CV Website](https://github.com/HauiZ/Cv-Website)
+### [📄 CV Website]
+  [Front-end](https://github.com/HauiZ/Cv-Website)  
+  [Back-end](https://github.com/HauiZ/Backend_CVW.git)
 
 A full-stack web application for building and managing CVs with modern design and real-time preview.
 
@@ -17,8 +19,7 @@ A full-stack web application for building and managing CVs with modern design an
 🧩 Frontend: ReactJS, TailwindCSS  
 🔧 Backend: ExpressJS  
 🗄️ Database: (Thêm nếu bạn dùng MongoDB, MySQL, v.v.)
-
-![Project Screenshot](https://raw.githubusercontent.com/HauiZ/Cv-Website/main/public/thumbnail.png) <!-- Nếu có ảnh minh họa thì thêm, nếu không thì bỏ dòng này -->
+<!-- Nếu có ảnh minh họa thì thêm, nếu không thì bỏ dòng này -->
 
 ---
 
@@ -41,6 +42,3 @@ A full-stack web application for building and managing CVs with modern design an
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=la1do&show_icons=true&locale=en&layout=compact" alt="la1do" />
-</p>
