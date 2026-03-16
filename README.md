@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Đỗ Bảo Trương</h1>
 <h3 align="center">
-🎓 I'm a third-year Information Technology student  
+🎓 I'm a Fourth-year Information Technology student  
 💻 Passionate about full-stack web development  
 🚀 Enthusiastic about exploring new technologies and applying them through real-world projects
 </h3>
